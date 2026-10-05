@@ -1,0 +1,73 @@
+🔗 AUTOGEN AGENTICAI FRAMEWORK @ 2nd Aug
+🔗 Zoom Link: https://zoom.us/j/85197296321
+🔗 Complete Playlist : https://www.youtube.com/playlist?list=PLVlQHNRLflP8Pt3wVlRWRaXZXi79cIwSq
+========
+
+1- AUTOGEN Official Documentation -->
+https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html
+
+2- What is Autogen ?
+        AutoGen is a framework for building AI agents and multi-agent applications. 
+		It was originally developed by Microsoft and is now part of the broader Microsoft agent ecosystem.
+
+3- What is asynchronous(async)
+		In AutoGen, asynchronous (async) means an agent can wait for an 
+		LLM, tool, API, or another agent without blocking the whole Python program.
+		
+		Async in AutoGen = while one agent/task is waiting, the system can handle 
+		other available work instead of blocking everything.
+		
+4- Autogen Architecture we have few component like 
+		Userproxy Agent --> 
+		Asistant Agent --> 
+		Group Chart manager --> 
+		
+================
+
+autogen is a multi agent framework 
+cuz it has multiple task for multiple task father hired multiple agent 
+
+1- agent has memory 
+
+2- agent can integrte to tool
+
+3- agents can communitat to user or aget through msgs 
+
+4- human in the loop -- 
+
+5- agents must need to have stop condition 
+----
+STEPS TO BUILD MULTIAGENT -->
+----
+
+1- create gemini api key -- keep it opensource 
+
+2- open the link autogen framework link which i shared 
+	https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html
+
+3- open vs code -- create new folder -- autogen_workshop 
+
+4- terminal -- new terminal -- click on + --selct to command prompt 
+
+5- create environment variable -- go the location you create folder 
+			python -m venv myenv 
+			myenv/script/activate 
+			
+6-  make sure your promt is activate at env file 
+
+7- install this library 
+
+8- testing our autogen code and we will test autogen with gemini 
+
+9- ppt lets develope code 
+
+	father -- userproxy 
+	agent1 - kid1
+	agent2-kidb 
+	agent3 - father has to go to school
+	
+10-= 
+
+		
+
+
